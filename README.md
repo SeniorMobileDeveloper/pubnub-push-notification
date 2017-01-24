@@ -3,5 +3,7 @@
 Super Simple Chat App
 
 ###Installation
+```js
   $ ionic state reset
+```
   
